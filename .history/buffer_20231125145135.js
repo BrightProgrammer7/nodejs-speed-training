@@ -1,0 +1,1 @@
+const bf = Buffer.from)
